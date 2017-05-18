@@ -1,0 +1,1 @@
+Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to SRI MEDIFOR AV Tampering&#8217;s documentation!"],titleterms:{document:0,indice:0,medifor:0,sri:0,tabl:0,tamper:0,welcom:0}})
